@@ -17,3 +17,4 @@ for i in range(len(s1)):
     ouf.write(str(sum(s1[i]) / len(s1[i])) + '\n')
 
 ouf.write(str(sum(mat) / len(mat)) + ' ' + str(sum(fiz) / len(fiz)) + ' ' + str(sum(rus) / len(rus)))
+
